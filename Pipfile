@@ -5,8 +5,10 @@ name = "pypi"
 
 [scripts]
 start = "python main.py"
+controller = "python controller_test.py"
 
 [packages]
+pygame = "*"
 
 [dev-packages]
 autopep8 = "*"
