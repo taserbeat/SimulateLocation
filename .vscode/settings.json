@@ -16,5 +16,10 @@
   "[json]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "vscode.json-language-features",
+  },
+  "[applescript]": {
+    "files.encoding": "macroman",
+    "editor.defaultFormatter": "idleberg.applescript",
+    "editor.formatOnSave": true,
   }
 }

@@ -15,3 +15,9 @@ pipenv sync --dev
 ```bash
 pipenv run start
 ```
+
+# ターミナルから applescript を実行
+
+```bash
+osascript scripts/dialog.applescript
+```
