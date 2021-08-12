@@ -6,9 +6,11 @@ name = "pypi"
 [scripts]
 start = "python main.py"
 controller = "python controller_test.py"
+applescript = "python applescript_test.py"
 
 [packages]
 pygame = "*"
+applescript = "*"
 
 [dev-packages]
 autopep8 = "*"

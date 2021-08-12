@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c9961ac0f8f9bfdefdaa65c3c0b8f196bb51ad20621863c01540615fc6cf3399"
+            "sha256": "0f104f3611e19e089b77682032ce808c52fdba3941f21758a47acfa2cb6b190f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "applescript": {
+            "hashes": [
+                "sha256:e39542c0411d82c3c860af23f5a54c121279a409e5cf55acfa7f881ea9798854"
+            ],
+            "index": "pypi",
+            "version": "==2021.2.9"
+        },
         "pygame": {
             "hashes": [
                 "sha256:0571dde0277483f5060c8ee43cbfd8df5776b12505e3948eee241c8ce9b93371",
